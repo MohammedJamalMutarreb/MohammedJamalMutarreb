@@ -7,5 +7,3 @@
 - ⚡ Fun fact: I am a car enthusiast, always wanted to build a sleeper car.
 [![Github stats](https://github-readme-stats.vercel.app/api?username=MohammedJamalMutarreb&show_icons=true&include_all_commits=true)](https://github.com/MohammedJamalMutarreb/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedJamalMutarreb&layout=compact)](https://github.com/MohammedJamalMutarreb/github-readme-stats)
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=MohammedJamalMutarreb alt=MohammedJamalMutarreb /> </p>
